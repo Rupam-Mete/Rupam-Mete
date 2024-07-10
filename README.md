@@ -1,4 +1,6 @@
 ## Hi there 👋
+## i am rupam mete currently a student of jis college of enginering
+## proficiency in c language
 
 <!--
 **Rupam-Mete/Rupam-Mete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
