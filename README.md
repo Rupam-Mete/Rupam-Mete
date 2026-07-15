@@ -41,6 +41,7 @@ I am an Information Technology student focused on bridging hardware and software
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="Power BI / Data Representation" />
+  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-500x281.png" width="70px" height="50px" style="vertical-align: middle;" alt="Power BI" />
   <img src="https://cdn.simpleicons.org/sap/008FD3" width="45px" height="45px" style="vertical-align: middle;" alt="SAP S/4 HANA" />
 </p>
 ---
