@@ -22,28 +22,27 @@ I am an Information Technology student focused on bridging hardware and software
 
 ### 💻 Software & Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MSSQL%20%2F%20SSMS-23272e?style=flat-square&textColor=a9b2c3" alt="MSSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="Java Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="Python Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="JavaScript Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="Django Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="Node.js Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40px" style="vertical-align: middle;" alt="SQL Server Logo" />
 </p>
 
 ### 🔌 IoT & Embedded Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Circuit%20Design-444444?style=for-the-badge&logo=circuits&logoColor=white" alt="Hardware" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="ESP32 / Embedded" />
+  <img src="https://www.shutterstock.com/image-photo/chip-on-circuit-board-surroounded-260nw-2138370531.jpg" width="40px" style="vertical-align: middle;" alt="Circuit Design" />
 </p>
 
 ### ☁️ Cloud, Data & AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SAP%20S%2F4%20HANA-01897B?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-original.svg" width="40px" style="vertical-align: middle; margin-right: 15px;" alt="Power BI / Data Representation" />
+  <img src="https://cdn.simpleicons.org/sap/008FD3" width="45px" height="45px" style="vertical-align: middle;" alt="SAP S/4 HANA" />
 </p>
-
 ---
 
 ## 🏆 Featured Projects
