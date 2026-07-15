@@ -1,10 +1,6 @@
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600&auto=format&fit=crop" width="350px" alt="Minimalist Developer Vector" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600&auto=format&fit=crop" width="350px" alt="Minimalist Developer Vector" style="border-radius: 10px;" />
+</div>
 
 # Hi ⚡, I'm Rupam Mete
 
