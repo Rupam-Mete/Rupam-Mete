@@ -27,7 +27,7 @@ I am an Information Technology student focused on bridging hardware and software
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/MSSQL%20%2F%20SSMS-23272e?style=flat-square&textColor=a9b2c3" alt="MSSQL" />
 </p>
 
 ### 🔌 IoT & Embedded Systems
