@@ -1,4 +1,4 @@
-# Hi ⚡, I'm Rupam Mete (Rishi)
+# Hi ⚡, I'm Rupam Mete 
 
 ### IT Student | Full-Stack Developer | IoT & Embedded Systems Engineer
 
