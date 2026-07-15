@@ -1,23 +1,22 @@
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600&auto=format&fit=crop" width="380px" alt="Minimalist Developer Vector" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
-
 # Hi ⚡, I'm Rupam Mete (Rishi)
 
 ### IT Student | Full-Stack Developer | IoT & Embedded Systems Engineer
 
+<p align="left">
+  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-blue?style=flat-square&logo=graduation-cap" alt="Degree" />
+  <img src="https://img.shields.io/badge/JIS%20College%20of%20Engineering-Kalyani%2C%20WB-orange?style=flat-square" alt="College" />
+</p>
+
+---
+
+## 💫 About Me
+
 I am a passionate Information Technology student dedicated to bridging the gap between hardware and software. From engineering intelligent IoT devices to architecting full-stack web applications, I enjoy building systems that solve real-world problems. 
 
-* 🚀 **Currently Working On:** **NodeMap.ai** — An AI-powered system designed to capture and visualize knowledge fragments as a dynamic star map.
+* 🚀 **Currently Working On:** **NodeMap.ai (bits2brain)** — An AI-powered system designed to capture and visualize knowledge fragments as a dynamic star map.
 * 🧠 **Learning & Refining:** Advanced **Data Structures & Algorithms** and Next-Gen AI Agents.
 * 🛠️ **Latest Milestone:** Published a patent for **SafeTrip_X**, an IoT-based rider safety and alert system.
-* ⚡ **Fun Fact:** I enjoy turning simple ideas into working code, playing CoC, and traveling.
-
-<br clear="right">
+* ⚡ **Fun Fact:** When I'm not coding or debugging circuits, you'll find me strategizing in Clash of Clans, riding, or exploring new travel destinations.
 
 ---
 
@@ -53,12 +52,15 @@ I am a passionate Information Technology student dedicated to bridging the gap b
 
 ### 🌟 NodeMap.ai (bits2brain)
 > An AI-powered platform featuring autonomous agents designed to map out, categorize, and visually render fragmented knowledge into an interactive star map constellation.
+* **Stack:** Node.js, Python, Django, AI Agents.
 
 ### 🏍️ SafeTrip_X `Patented`
 > An advanced IoT-based rider safety and alert ecosystem built to ensure real-time accident detection, emergency broadcast messaging, and smart helmet synchronization.
+* **Stack:** ESP32/Arduino, Custom Embedded Circuitry, IoT Sensors.
 
 ### 🏥 VitaSense (AI Digital Twin Healthcare System)
 > A real-time biomedical monitoring framework integrating hardware wearable streams with backend analytics to output live patient telemetry and predictive medical alerts.
+* **Stack:** ESP32, Node.js, Hardware Sensors.
 
 ---
 
