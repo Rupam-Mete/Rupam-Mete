@@ -1,8 +1,6 @@
-<div align="right">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600&auto=format&fit=crop" width="350px" alt="Minimalist Developer Vector" style="border-radius: 10px;" />
-</div>
+<img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600&auto=format&fit=crop" width="350px" align="right" alt="Minimalist Developer Vector" style="border-radius: 10px; margin-left: 20px;" />
 
-# Hi ⚡, I'm Rupam Mete
+<span style="font-size: 10em;"><strong>Hi ⚡, I'm Rupam Mete</strong></span>
 
 ### IT Student | Full-Stack Developer | IoT & Embedded Systems Engineer
 
@@ -13,8 +11,8 @@
 I am an Information Technology student focused on bridging hardware and software. I build intelligent IoT systems, architect full-stack web applications, and develop AI solutions to solve real-world problems.
 
 * 🚀 **Currently Working On:** **NodeMap.ai** — Mapping fragmented knowledge into a dynamic star map.
-* 🛠️ **Latest Milestone:** Published a patent for the **SafeTrip_X** rider safety system[cite: 1].
-* ⚡ **Fun Fact:** I love turning concept sketches into working code, playing CoC, and traveling[cite: 1].
+* 🛠️ **Latest Milestone:** Published a patent for the **SafeTrip_X** rider safety system.
+* ⚡ **Fun Fact:** I love turning concept sketches into working code, playing CoC, and traveling.
 
 <br clear="right">
 
@@ -55,8 +53,8 @@ I am an Information Technology student focused on bridging hardware and software
 * **Stack:** Node.js, Python, Django, AI Agents.
 
 ### 🏍️ SafeTrip_X `Patented`
-> An advanced IoT-based rider safety and alert ecosystem built to ensure real-time accident detection, emergency broadcast messaging, and smart helmet synchronization[cite: 1].
-* **Stack:** ESP32/Arduino, Custom Embedded Circuitry, IoT Sensors[cite: 1].
+> An advanced IoT-based rider safety and alert ecosystem built to ensure real-time accident detection, emergency broadcast messaging, and smart helmet synchronization.
+* **Stack:** ESP32/Arduino, Custom Embedded Circuitry, IoT Sensors.
 
 ### 🏥 VitaSense (AI Digital Twin Healthcare System)
 > A real-time biomedical monitoring framework integrating hardware wearable streams with backend analytics to output live patient telemetry and predictive medical alerts.
@@ -65,11 +63,11 @@ I am an Information Technology student focused on bridging hardware and software
 ---
 
 ## 🥇 Honors & Achievements
-* **Patent Published:** *SafeTrip_X: IoT-based Rider Safety & Alert System*[cite: 1].
-* **Certification:** Record of Achievement for ABAP Programming on SAP BTP (Narula Institute of Technology)[cite: 1].
-* **Hackathon:** 2nd Runner-up at Tech-fest Hackathon 2024[cite: 1].
-* **Cloud Mastery:** Google Cloud (GCP) Arcade Champion Milestone (Completed 100+ Labs)[cite: 1].
-* **AI Training:** Winner, Microsoft AI Odyssey Challenge 2024[cite: 1].
+* **Patent Published:** *SafeTrip_X: IoT-based Rider Safety & Alert System*.
+* **Certification:** Record of Achievement for ABAP Programming on SAP BTP (Narula Institute of Technology).
+* **Hackathon:** 2nd Runner-up at Tech-fest Hackathon 2024.
+* **Cloud Mastery:** Google Cloud (GCP) Arcade Champion Milestone (Completed 100+ Labs).
+* **AI Training:** Winner, Microsoft AI Odyssey Challenge 2024.
 
 ---
 
