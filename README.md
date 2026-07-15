@@ -1,22 +1,22 @@
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600&auto=format&fit=crop" width="350px" alt="Minimalist Developer Vector" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
 # Hi ⚡, I'm Rupam Mete (Rishi)
 
 ### IT Student | Full-Stack Developer | IoT & Embedded Systems Engineer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-blue?style=flat-square&logo=graduation-cap" alt="Degree" />
-  <img src="https://img.shields.io/badge/JIS%20College%20of%20Engineering-Kalyani%2C%20WB-orange?style=flat-square" alt="College" />
-</p>
+I am an Information Technology student focused on bridging hardware and software. I build intelligent IoT systems, architech full-stack web applications, and develop AI solutions to solve real-world problems.
 
----
+* 🚀 **Currently Working On:** **NodeMap.ai** — Mapping fragmented knowledge into a dynamic star map.
+* 🛠️ **Latest Milestone:** Published a patent for the **SafeTrip_X** rider safety system.
+* ⚡ **Fun Fact:** I love turning concept sketches into working code, playing CoC, and traveling[cite: 1].
 
-## 💫 About Me
-
-I am a passionate Information Technology student dedicated to bridging the gap between hardware and software. From engineering intelligent IoT devices to architecting full-stack web applications, I enjoy building systems that solve real-world problems. 
-
-* 🚀 **Currently Working On:** **NodeMap.ai (bits2brain)** — An AI-powered system designed to capture and visualize knowledge fragments as a dynamic star map.
-* 🧠 **Learning & Refining:** Advanced **Data Structures & Algorithms** and Next-Gen AI Agents.
-* 🛠️ **Latest Milestone:** Published a patent for **SafeTrip_X**, an IoT-based rider safety and alert system.
-* ⚡ **Fun Fact:** When I'm not coding or debugging circuits, you'll find me strategizing in Clash of Clans, riding, or exploring new travel destinations.
+<br clear="right">
 
 ---
 
@@ -55,7 +55,7 @@ I am a passionate Information Technology student dedicated to bridging the gap b
 * **Stack:** Node.js, Python, Django, AI Agents.
 
 ### 🏍️ SafeTrip_X `Patented`
-> An advanced IoT-based rider safety and alert ecosystem built to ensure real-time accident detection, emergency broadcast messaging, and smart helmet synchronization.
+> An advanced IoT-based rider safety and alert ecosystem built to ensure real-time accident detection, emergency broadcast messaging, and smart helmet synchronization[cite: 1].
 * **Stack:** ESP32/Arduino, Custom Embedded Circuitry, IoT Sensors.
 
 ### 🏥 VitaSense (AI Digital Twin Healthcare System)
@@ -67,9 +67,9 @@ I am a passionate Information Technology student dedicated to bridging the gap b
 ## 🥇 Honors & Achievements
 * **Patent Published:** *SafeTrip_X: IoT-based Rider Safety & Alert System*.
 * **Certification:** Record of Achievement for ABAP Programming on SAP BTP (Narula Institute of Technology).
-* **Hackathon:** 2nd Runner-up at Tech-fest Hackathon.
-* **Cloud Mastery:** Google Cloud (GCP) Arcade Champion Milestone (Completed 100+ Labs).
-* **AI Training:** Winner, Microsoft AI Odyssey Challenge.
+* **Hackathon:** 2nd Runner-up at Tech-fest Hackathon 2024[cite: 1].
+* **Cloud Mastery:** Google Cloud (GCP) Arcade Champion Milestone (Completed 100+ Labs)[cite: 1].
+* **AI Training:** Winner, Microsoft AI Odyssey Challenge 2024[cite: 1].
 
 ---
 
