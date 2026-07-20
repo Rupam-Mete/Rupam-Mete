@@ -74,7 +74,7 @@ I am an Information Technology student focused on bridging hardware and software
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="htpps://linkedin.com/in/rupam-mete" target="_blank">
+  <a href="https://linkedin.com/in/rupam-mete" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:meter380@gmail.com">
