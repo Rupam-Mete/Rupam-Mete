@@ -48,9 +48,15 @@ I am an Information Technology student focused on bridging hardware and software
 
 ## 🏆 Featured Projects
 
-### 🌟 NodeMap.ai (bits2brain)
-> An AI-powered platform featuring autonomous agents designed to map out, categorize, and visually render fragmented knowledge into an interactive star map constellation.
-* **Stack:** Node.js, Python, Django, AI Agents.
+### 📦 Inventory Management System
+> A full-stack web application designed to track stock lifecycles, manage multi-entity business records, and process customer orders in real time via an interactive dashboard.
+
+* **Tech Stack:** Node.js, Express.js, Microsoft SQL Server (SSMS), JavaScript, HTML5, CSS3
+* **Key Highlights:**
+  * **Database Architecture:** Multi-table relational schema managing products, orders, payments, customers, and employees.
+  * **Backend Integration:** RESTful endpoints built with Express and `mssql` for real-time querying.
+  * **User Workflows:** Dedicated registration, authentication, and inventory tracking interfaces.
+* **Repository:** [Inventory Management System](https://github.com/Rupam-Mete/inventory-management-system)
 
 ### 🏍️ SafeTrip_X `Patented`
 > An advanced IoT-based rider safety and alert ecosystem built to ensure real-time accident detection, emergency broadcast messaging, and smart helmet synchronization.
