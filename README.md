@@ -61,7 +61,7 @@ I am an Information Technology student focused on bridging hardware and software
 ### 🏍️ SafeTrip_X `Patented`
 > An advanced IoT-based rider safety and alert ecosystem built to ensure real-time accident detection, emergency broadcast messaging, and smart helmet synchronization.
 * **Stack:** ESP32/Arduino, Custom Embedded Circuitry, IoT Sensors.
-
+* **View patent:** [Patent](https://lnkd.in/p/gFQnMvEe)
 ### 🏥 VitaSense (AI Digital Twin Healthcare System)
 > A real-time biomedical monitoring framework integrating hardware wearable streams with backend analytics to output live patient telemetry and predictive medical alerts.
 * **Stack:** ESP32, Node.js, Hardware Sensors.
